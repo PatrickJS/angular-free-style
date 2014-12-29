@@ -1,0 +1,22 @@
+{
+  "name": "angular-free-style",
+  "version": "1.0.0",
+  "description": "An Angular.js module for free-style that is designed to make cross-browser style objects easier to work with in JavaScript",
+  "main": "angular-free-style.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdi2290/angular-free-style.git"
+  },
+  "author": "gdi2290 <github@gdi2290.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdi2290/angular-free-style/issues"
+  },
+  "homepage": "https://github.com/gdi2290/angular-free-style"
+}
